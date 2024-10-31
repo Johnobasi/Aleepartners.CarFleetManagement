@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\AdrianLeePartners_Interviews\\Aleepartners.CarFleetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA294075-9D59-4556-AF9B-80BC4BA5840B}|Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement.csproj|c:\\users\\dell\\onedrive\\desktop\\adrianleepartners_interviews\\aleepartners.carfleetmanagement\\aleepartners.carfleetmanagement\\viewmodels\\carfleetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA294075-9D59-4556-AF9B-80BC4BA5840B}|Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement.csproj|solutionrelative:aleepartners.carfleetmanagement\\viewmodels\\carfleetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA294075-9D59-4556-AF9B-80BC4BA5840B}|Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement.csproj|c:\\users\\dell\\onedrive\\desktop\\adrianleepartners_interviews\\aleepartners.carfleetmanagement\\aleepartners.carfleetmanagement\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA294075-9D59-4556-AF9B-80BC4BA5840B}|Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement.csproj|solutionrelative:aleepartners.carfleetmanagement\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarFleetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\AdrianLeePartners_Interviews\\Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement\\ViewModels\\CarFleetViewModel.cs",
+              "RelativeDocumentMoniker": "Aleepartners.CarFleetManagement\\ViewModels\\CarFleetViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\AdrianLeePartners_Interviews\\Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement\\ViewModels\\CarFleetViewModel.cs",
+              "RelativeToolTip": "Aleepartners.CarFleetManagement\\ViewModels\\CarFleetViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:59:54.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\AdrianLeePartners_Interviews\\Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement\\Models\\DataManager.cs",
+              "RelativeDocumentMoniker": "Aleepartners.CarFleetManagement\\Models\\DataManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\AdrianLeePartners_Interviews\\Aleepartners.CarFleetManagement\\Aleepartners.CarFleetManagement\\Models\\DataManager.cs",
+              "RelativeToolTip": "Aleepartners.CarFleetManagement\\Models\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:59:54.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
